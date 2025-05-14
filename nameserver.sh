@@ -7,7 +7,7 @@ ns_domain_cloudflare() {
 	SUB_DOMAIN=${SUB}."alfinet.my.id"
 	NS_DOMAIN=${SUB_DOMAIN}
 	CF_ID=c0e6aa07017d9e43fbc5864500b3456b
-        CF_KEY=EwzgPteUFrLhRXB-NeUYHUHUH3amYxycuaDXKXBJ
+        CF_KEY=5qAbiJxHLt8tBDnfD8VEfp63D24WQ4nfofbm8mxL
 	set -euo pipefail
 	IP=$(wget -qO- ipinfo.io/ip)
 	echo "Updating DNS NS for ${NS_DOMAIN}..."
