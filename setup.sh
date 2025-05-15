@@ -23,7 +23,7 @@ clear;clear;clear
 
 # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Developer » AlfiStoreVPN ${YELLOW}(${NC}${green} Stable Edition (2024) ${NC}${YELLOW})${NC}"
+echo -e "  Developer » AlfiStoreVPN ${YELLOW}(${NC}${green} Stable Edition (2025) ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
