@@ -2,6 +2,7 @@
 
 Untuk install script ini berikan IP VPS kalian ke nomer ini :
 WA : 085223659782
+Harga : 15k/bln 1 IP
 
 ## UPGRADE FOR DEBIAN
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
